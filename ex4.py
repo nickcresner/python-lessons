@@ -1,5 +1,5 @@
 # number of cars
-cars = 100
+cars=100
 
 # number of spaces in each car
 space_in_a_car = 4.0
@@ -19,7 +19,7 @@ cars_driven = drivers
 # total number of passangers that could possibly use the carpool scheme
 carpool_capacity = cars_driven * space_in_a_car
 
-# average number of people in each car
+# average number of people in each carb
 average_passengers_per_car = passengers / cars_driven
 
 
